@@ -1,0 +1,1 @@
+# snorkel-adapter-covid19
